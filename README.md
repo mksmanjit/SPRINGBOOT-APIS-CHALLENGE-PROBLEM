@@ -1,4 +1,4 @@
-# N26-Challenge
+# Challenge
 
 Code Challenge
 
