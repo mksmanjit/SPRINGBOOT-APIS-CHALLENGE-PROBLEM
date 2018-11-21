@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: n26-challenge
+statisticService.windowInSec: 60
+server.port: 8181
